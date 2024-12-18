@@ -1,5 +1,4 @@
-# Deep Reinforcement Learning for Portfolio
-Optimization
+# Deep Reinforcement Learning for Portfolio Optimization
 
 1. Introduction
    
